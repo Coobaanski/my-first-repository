@@ -20,5 +20,8 @@ We do not know what to write her ...
 - git add (DATEI NAME), damit das veränderte commidet wird.
 - git commit -m "Added new files"
 - git push
+- git pull
 
-#####
+##### neue datei speichern
+
+git add.
