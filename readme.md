@@ -25,3 +25,8 @@ We do not know what to write her ...
 ##### neue datei speichern
 
 git add .
+
+###
+
+Oida wie viel hast du hier geschrieben? 
+jo das bin i
