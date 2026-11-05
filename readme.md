@@ -24,4 +24,4 @@ We do not know what to write her ...
 
 ##### neue datei speichern
 
-git add.
+git add .
